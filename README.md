@@ -1,5 +1,11 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+Meu nome é Beatriz
 
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+- ![] (https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgato-gif-16366413492017383053&psig=AOvVaw00NqEmZ79votCBroVkKet2&ust=1716377067167000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDV0P_QnoYDFQAAAAAdAAAAABAE)
 <!--
 **Lindomel/Lindomel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
